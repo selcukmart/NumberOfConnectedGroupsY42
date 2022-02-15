@@ -1,0 +1,1 @@
+### Number of connected groups

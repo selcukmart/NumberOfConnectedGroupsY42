@@ -1,0 +1,21 @@
+{
+  "name": "selcukmart/number-of-connected-groups-y42",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Selcukmart\\NumberOfConnectedGroupsY42\\": "src/"
+    },
+    "files": [
+      "Helpers/helpers.php"
+    ]
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Tests\\": "tests/"
+    }
+  },
+  "require": {},
+  "require-dev": {
+    "phpunit/phpunit": "^9"
+  }
+}
