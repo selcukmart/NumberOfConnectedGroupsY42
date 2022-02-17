@@ -1,6 +1,14 @@
 {
   "name": "selcukmart/number-of-connected-groups-y42",
   "license": "MIT",
+  "minimum-stability": "stable",
+  "type": "library",
+  "keywords": [
+    "connected groups",
+    "Depth First Search",
+    "DFS",
+    "calculation between coordinates"
+  ],
   "autoload": {
     "psr-4": {
       "Selcukmart\\NumberOfConnectedGroupsY42\\": "src/"
